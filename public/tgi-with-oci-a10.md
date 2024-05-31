@@ -1,11 +1,11 @@
 ---
 title: Hugging Face TGI(Text Generation Inference) を OCI の A10 で試してみた
 tags:
-  - "oci"
-  - "huggingface"
+  - oci
+  - huggingface
 private: false
-updated_at: ""
-id: null
+updated_at: '2024-05-31T15:37:55+09:00'
+id: bafcda746012fdc89617
 organization_url_name: oracle
 slide: false
 ignorePublish: false
