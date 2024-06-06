@@ -1,11 +1,11 @@
 ---
 title: OCI Generative AI Service(Cohere Command R)を用いたTool Use(Function Calling)
 tags:
-  - "oci"
-  - "Cohere"
+  - oci
+  - Cohere
 private: false
-updated_at: ""
-id: null
+updated_at: '2024-06-06T17:19:41+09:00'
+id: 14ee6efc69f75ace0a0e
 organization_url_name: oracle
 slide: false
 ignorePublish: false
