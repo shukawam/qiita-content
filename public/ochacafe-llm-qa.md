@@ -6,7 +6,7 @@ tags:
   - LLM
   - langfuse
 private: false
-updated_at: '2024-07-17T22:31:11+09:00'
+updated_at: '2024-07-17T22:36:12+09:00'
 id: f41c2a6000b0da069643
 organization_url_name: oracle
 slide: false
