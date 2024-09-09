@@ -1,12 +1,12 @@
 ---
 title: LLMアプリケーションのトレーシング w/ Langfuse
 tags:
-  - "llm"
-  - "observability"
-  - "langfuse"
+  - observability
+  - LLM
+  - langfuse
 private: false
-updated_at: ""
-id: null
+updated_at: '2024-09-10T00:53:56+09:00'
+id: 7cdca866a0d9afaf1a46
 organization_url_name: oracle
 slide: false
 ignorePublish: false
