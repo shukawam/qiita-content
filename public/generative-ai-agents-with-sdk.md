@@ -1,12 +1,12 @@
 ---
 title: Generative AI AgentsをSDKから操作する
 tags:
-  - "llm"
-  - "oci"
-  - "oracle"
+  - oracle
+  - oci
+  - LLM
 private: false
-updated_at: ""
-id: null
+updated_at: '2024-10-02T17:53:05+09:00'
+id: c9eb9cd37950150d4d70
 organization_url_name: oracle
 slide: false
 ignorePublish: false
