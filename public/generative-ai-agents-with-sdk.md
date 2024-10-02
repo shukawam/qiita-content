@@ -1,5 +1,5 @@
 ---
-title: Generative AI AgentsをSDKから操作する
+title: OCI Generative AI Agents を SDK から操作する
 tags:
   - oracle
   - oci
