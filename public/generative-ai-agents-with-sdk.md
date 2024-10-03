@@ -18,7 +18,7 @@ ignorePublish: false
 
 https://docs.oracle.com/en-us/iaas/releasenotes/generative-ai-agents/genai-agents-GA-release.htm
 
-Beta 版では、ナレッジベースとして OCI Search with OpenSearch のみが利用可能であったり、チャットや検索結果を保持しておくためのメモリ機構として OCI Cache が必要でしたが、GA 版となり Oracle Database 23ai, Object Storage がナレッジベースとして新たにサポートされたり、OCI Cache を構築する必要がなくなりました。また、Object Storage 限定となりますが PDF や Word といったドキュメントデータを取り込むためのデータパイプラインが整備されたり、ハイブリッド検索[^1]がサポートされたりと機能強化されて登場しました。本記事では、実際に OCI Agents を使ってアプリケーションを開発するために必要となる SDK の使い方を解説します。
+Beta 版では、ナレッジベースとして OCI Search with OpenSearch のみが利用可能であったり、チャットや検索結果を保持しておくためのメモリ機構として OCI Cache が必要でしたが、GA 版となり Oracle Database 23ai, Object Storage がナレッジベースとして新たにサポートされたり、OCI Cache を構築する必要がなくなりました。また、Object Storage 限定となりますが PDF や TXT といったドキュメントデータを取り込むためのデータパイプラインが整備されたり、ハイブリッド検索[^1]がサポートされたりと機能強化されて登場しました。本記事では、実際に OCI Agents を使ってアプリケーションを開発するために必要となる SDK の使い方を解説します。
 
 [^1]: ここでは、キーワードによる検索と意味に基づく類似検索を組み合わせた検索手法を指す
 
@@ -28,7 +28,7 @@ LLM を活用したアプリケーションを実装する際は、LLM の学習
 
 ## OCI SDK から OCI Generative AI Agents を操作する
 
-ここでは、Object Storage に PDF や Word 等のドキュメントが事前に格納されており、ナレッジベースとして適切に設定されていることを前提とします。これらの手順については、以下の記事をご参照ください。
+ここでは、Object Storage に PDF や TXT 等のドキュメントが事前に格納されており、ナレッジベースとして適切に設定されていることを前提とします。これらの手順については、以下の記事をご参照ください。
 
 https://qiita.com/msasakaw/items/219c58ecdf98b4bfb743
 
