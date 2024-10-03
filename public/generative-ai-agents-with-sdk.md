@@ -5,7 +5,7 @@ tags:
   - oci
   - LLM
 private: false
-updated_at: '2024-10-02T19:15:30+09:00'
+updated_at: '2024-10-03T12:19:18+09:00'
 id: c9eb9cd37950150d4d70
 organization_url_name: oracle
 slide: false
