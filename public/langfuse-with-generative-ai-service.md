@@ -94,7 +94,7 @@ helm install langfuse langfuse/langfuse
 
 ポイントをかいつまんで紹介するため、ノートブック全体は以下をご参照ください。
 
-https://github.com/oracle-japan/genai-adb-demo-toolkit/blob/main/notebook/02_select_ai.ipynb
+https://github.com/oracle-japan/genai-adb-demo-toolkit/blob/main/notebook/02_select_ai_genai.ipynb
 
 今回は以下の様な従業員テーブルとサンプルデータを事前に用意し、そちらを使用します。
 
