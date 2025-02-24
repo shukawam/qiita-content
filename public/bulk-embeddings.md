@@ -1,10 +1,10 @@
 ---
 title: ベクトル検索評価用の大量データの埋め込み（Embeddings）を取得する
 tags:
-  - "oci"
+  - oci
 private: false
-updated_at: ""
-id: null
+updated_at: '2025-02-24T20:32:03+09:00'
+id: 267dcb6b9d9319309ec4
 organization_url_name: oracle
 slide: false
 ignorePublish: false
